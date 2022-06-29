@@ -19,7 +19,11 @@
 /* Info + Titulos */
 
 .Info-Titulos{
-    padding: 40px;
+    padding: 50px;
+}
+
+.h1{
+    text-align: center;
 }
 
 .Info{
@@ -40,6 +44,7 @@
     color: #888888;
     font-size: 15px;
     padding: 50px;
+    text-align: center;
 }
 
 .hr{
