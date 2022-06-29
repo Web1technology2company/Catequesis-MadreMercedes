@@ -1,0 +1,47 @@
+/* Inicio */
+
+.Titulo{
+    color: white;
+    background-color: brown;
+    padding: 55px;
+    text-align: center;
+}
+
+.Subtitulo{
+    font-size: 20px;
+    padding: 10px;
+}
+
+.Fondo-Inicio{
+    background-color: brown;
+}
+
+/* Info + Titulos */
+
+.Info-Titulos{
+    padding: 40px;
+}
+
+.Info{
+    font-size: 20px;
+    padding: 30px;
+    color: #333333;
+}
+
+.Info-1{
+    font-size: 20px;
+    padding: 30px;
+    color: #333333;
+    text-align: center;
+}
+/* Footer */
+
+.Footer{
+    color: #888888;
+    font-size: 15px;
+    padding: 50px;
+}
+
+.hr{
+    margin: 50px;
+}
